@@ -14,7 +14,7 @@ $ git clone https://github.com/
 Next, you'll want to go into the  app directory:
 
 ```bash
-$ cd GitHubWebApp
+$ cd GitHubWebHook
 ```
 
 Then you'll want to install all of the Python requirements (via
@@ -37,5 +37,5 @@ In case of if you have python3.
 $ python3 app.py
 ```
 
-That's it! Email for support or questions.
+That's it! Email for support or your point of contact for more help!
 [support@GitHub.com](google.com)
